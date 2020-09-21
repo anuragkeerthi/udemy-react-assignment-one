@@ -1,0 +1,34 @@
+Looking for git in: git
+Using git 2.28.0 from git
+> git rev-parse --git-dir
+Open repository: /home/anurag/Anurag/Workspace/React/practice-react-app
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git config --local branch.master.github-pr-owner-number
+> git config --local branch.master.github-pr-owner-number
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :src/App.js
+> git ls-files --stage -- /home/anurag/Anurag/Workspace/React/practice-react-app/src/App.js
+> git cat-file -s d0716fac9cd8f73a73ab59f46cfda519c2568126
+> git show --textconv :src/index.css
+> git ls-files --stage -- /home/anurag/Anurag/Workspace/React/practice-react-app/src/index.css
+> git cat-file -s b4cc7250b98cb3f1a2dd5bec134296c6942344d9
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/anurag/Anurag/Workspace/React/practice-react-app/src/index.js
+> git cat-file -s fae3e3500cf003c76f0065ffd12df759c9ccb6aa
+> git show --textconv :src/App.js
+> git ls-files --stage -- /home/anurag/Anurag/Workspace/React/practice-react-app/src/App.js
+> git cat-file -s d0716fac9cd8f73a73ab59f46cfda519c2568126
+> git show --textconv :src/index.js
+> git ls-files --stage -- /home/anurag/Anurag/Workspace/React/practice-react-app/src/index.js
+> git cat-file -s fae3e3500cf003c76f0065ffd12df759c9ccb6aa
+> git show --textconv :src/App.js
+> git ls-files --stage -- /home/anurag/Anurag/Workspace/React/practice-react-app/src/App.js
+> git cat-file -s d0716fac9cd8f73a73ab59f46cfda519c2568126
