@@ -32,3 +32,19 @@ Open repository: /home/anurag/Anurag/Workspace/React/practice-react-app
 > git show --textconv :src/App.js
 > git ls-files --stage -- /home/anurag/Anurag/Workspace/React/practice-react-app/src/App.js
 > git cat-file -s d0716fac9cd8f73a73ab59f46cfda519c2568126
+> git check-ignore -v -z --stdin
+> git show --textconv :src/Person/Person.js
+> git ls-files --stage -- /home/anurag/Anurag/Workspace/React/practice-react-app/src/Person/Person.js
+> git cat-file -s fb4d0dcb590e5edfdec136f0cdae80d592cdef38
+> git show --textconv :src/App.js
+> git ls-files --stage -- /home/anurag/Anurag/Workspace/React/practice-react-app/src/App.js
+> git cat-file -s d0716fac9cd8f73a73ab59f46cfda519c2568126
+> git show --textconv :src/Person/Person.js
+> git ls-files --stage -- /home/anurag/Anurag/Workspace/React/practice-react-app/src/Person/Person.js
+> git cat-file -s fb4d0dcb590e5edfdec136f0cdae80d592cdef38
+> git show --textconv :src/App.js
+> git ls-files --stage -- /home/anurag/Anurag/Workspace/React/practice-react-app/src/App.js
+> git cat-file -s d0716fac9cd8f73a73ab59f46cfda519c2568126
+> git show --textconv :src/Person/Person.js
+> git ls-files --stage -- /home/anurag/Anurag/Workspace/React/practice-react-app/src/Person/Person.js
+> git cat-file -s fb4d0dcb590e5edfdec136f0cdae80d592cdef38

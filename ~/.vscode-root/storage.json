@@ -9,40 +9,17 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/anurag/Anurag/Workspace/React/react-assignment-one",
-            "backupPath": "/home/anurag/Anurag/Workspace/React/react-assignment-one/~/.vscode-root/Backups/597509de36a5c491c09d046ecaa9d7a4",
+            "folder": "file:///home/anurag/Anurag/Workspace/React/practice-react-app",
+            "backupPath": "/home/anurag/Anurag/Workspace/React/react-assignment-one/~/.vscode-root/Backups/f6a41bff7986569f3856256e17b0bcd3",
             "uiState": {
-                "mode": 0,
-                "x": 176,
+                "mode": 1,
+                "x": 0,
                 "y": 23,
-                "width": 1024,
-                "height": 704
+                "width": 1366,
+                "height": 709
             }
         },
-        "openedWindows": [
-            {
-                "folder": "file:///home/anurag/Anurag/Workspace/React/react-assignment-one",
-                "backupPath": "/home/anurag/Anurag/Workspace/React/react-assignment-one/~/.vscode-root/Backups/597509de36a5c491c09d046ecaa9d7a4",
-                "uiState": {
-                    "mode": 0,
-                    "x": 176,
-                    "y": 23,
-                    "width": 1024,
-                    "height": 704
-                }
-            },
-            {
-                "folder": "file:///home/anurag/Anurag/Workspace/React/practice-react-app",
-                "backupPath": "/home/anurag/Anurag/Workspace/React/react-assignment-one/~/.vscode-root/Backups/f6a41bff7986569f3856256e17b0bcd3",
-                "uiState": {
-                    "mode": 0,
-                    "x": 176,
-                    "y": 23,
-                    "width": 1024,
-                    "height": 704
-                }
-            }
-        ]
+        "openedWindows": []
     },
     "lastKnownMenubarData": {
         "menus": {
